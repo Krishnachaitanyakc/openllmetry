@@ -198,7 +198,6 @@ def instrument_with_messages_attributes(
     yield instrumentor
 
     Config.use_messages_attributes = False
-    instrumentor.uninstrument()
 
 
 @pytest.fixture(autouse=True)
