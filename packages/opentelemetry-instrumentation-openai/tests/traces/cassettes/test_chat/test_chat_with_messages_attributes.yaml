@@ -75,15 +75,12 @@ interactions:
       - h3=":443"; ma=86400
       cf-cache-status:
       - DYNAMIC
-      openai-organization:
       - user-xzaeeoqlanzncr8pomspsknu
       openai-processing-ms:
       - '9693'
-      openai-project:
       - proj_aT4OgTR5NJ9iNjg4xWc82hiE
       openai-version:
       - '2020-10-01'
-      set-cookie:
       - __cf_bm=yHwfhiWkZwm4Z4.NdsBzizgQ5hYa4u7PPbidPK64GDs-1771164665.7066395-1.0.1.1-2jklcmgNY.GVahEuq5jJXJFzf2M3pjnRdvRDWuXEdVURRgsuHHc6aOMnYKWRbKp.sDYGGCPK.9wk1QA.gFtzXaInYHqUQImb5HXUivamvhEUC.GGp0sVFlEi7aseB4tV;
         HttpOnly; Secure; Path=/; Domain=api.openai.com; Expires=Sun, 15 Feb 2026
         14:41:16 GMT
@@ -101,7 +98,6 @@ interactions:
       - 2ms
       x-ratelimit-reset-tokens:
       - 0s
-      x-request-id:
       - req_b176c7aa266e48aa8eff647b6b309bb8
     status:
       code: 200

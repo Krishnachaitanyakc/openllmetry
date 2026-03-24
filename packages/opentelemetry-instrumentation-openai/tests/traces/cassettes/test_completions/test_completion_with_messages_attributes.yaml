@@ -76,15 +76,12 @@ interactions:
       - DYNAMIC
       openai-model:
       - davinci:2023-07-21-v2
-      openai-organization:
       - user-xzaeeoqlanzncr8pomspsknu
       openai-processing-ms:
       - '352'
-      openai-project:
       - proj_aT4OgTR5NJ9iNjg4xWc82hiE
       openai-version:
       - '2020-10-01'
-      set-cookie:
       - __cf_bm=FhifJ.2UcjW4EKXLAx9U2EBPod_TWb.kyoXw6T3JCwo-1771164676.621527-1.0.1.1-3.hJU8RKxh2ujq.hmLr_vm1m8yVo2zVpfU7ctCQLi5n_eFWITA3KaQH176oPAjYPz3Ad7IIDd7rr9aIKdvLiuGN.j7TqjH7ZE4VaOAdUiB0CLQk1ST.pLf3CqUm9Z2Wk;
         HttpOnly; Secure; Path=/; Domain=api.openai.com; Expires=Sun, 15 Feb 2026
         14:41:17 GMT
@@ -106,7 +103,6 @@ interactions:
       - 20ms
       x-ratelimit-reset-tokens:
       - 2ms
-      x-request-id:
       - req_fcbf1d5389cb4a908ff622465164f997
     status:
       code: 200
